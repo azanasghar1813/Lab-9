@@ -8,6 +8,13 @@
     border-radius: 20%;
     margin: 10px;
     padding: 5px;
+
+display: flex;
+justify-items:  center;
+align-items: center;
+text-align: center;
+padding-left: 100px;
+
 }
 .normal-para {
     color: green;
